@@ -1,0 +1,15 @@
+"E:\IAR\arm\bin\armproc.dll" 
+
+"E:\IAR\arm\bin\armstlink2.dll" 
+
+"E:\IAR\workspace\mems\Projects\STM32F030F4_LED_USART_EXIT\EWARM\out\Exe\STM32F0308-Discovery_Demo.out" 
+
+--plugin "E:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "E:\IAR\arm\config\debugger\ST\STM32F0xx.dmac" 
+
+--flash_loader "E:\IAR\arm\config\flashloader\ST\FlashSTM32F03xx4.board" 
+
+
+
+
